@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautism_docs=self.webpackChunkautism_docs||[]).push([[9791],{32:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/autism-doc/blog/tags/docusaurus","allTagsPath":"/autism-doc/blog/tags","count":4}')}}]);

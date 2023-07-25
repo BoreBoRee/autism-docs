@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkautism_docs=self.webpackChunkautism_docs||[]).push([[4694],{5355:s=>{s.exports=JSON.parse('{"permalink":"/autism-doc/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,675 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "2529": [
+      532,
+      3089,
+      3946,
+      6103,
+      8610,
+      2529
+    ],
+    "3946": [
+      532,
+      2529,
+      3085,
+      3089,
+      6103,
+      7918,
+      8610,
+      3946
+    ],
+    "4972": [
+      4972
+    ],
+    "17896441": [
+      532,
+      3946,
+      7918
+    ],
+    "59362658": [
+      2267
+    ],
+    "84195450": [
+      7154
+    ],
+    "90177056": [
+      1107
+    ],
+    "main": [
+      532,
+      1303,
+      179
+    ],
+    "runtime~main": [
+      179,
+      532,
+      1303
+    ],
+    "01a85c17": [
+      532,
+      4013
+    ],
+    "05457f33": [
+      174
+    ],
+    "0e384e19": [
+      9671
+    ],
+    "14eb3368": [
+      532,
+      9817
+    ],
+    "18c41134": [
+      2859
+    ],
+    "1be78505": [
+      532,
+      4972
+    ],
+    "1bf302b0": [
+      777
+    ],
+    "1e4232ab": [
+      8818
+    ],
+    "1f391b9e": [
+      532,
+      3946,
+      3085
+    ],
+    "393be207": [
+      7414
+    ],
+    "3e827d57": [
+      9791
+    ],
+    "4009fb04": [
+      9305
+    ],
+    "533a09ca": [
+      4607
+    ],
+    "5c868d36": [
+      5589
+    ],
+    "646ad302": [
+      4694
+    ],
+    "6875c492": [
+      532,
+      2529,
+      3946,
+      8610
+    ],
+    "73664a40": [
+      3514
+    ],
+    "7661071f": [
+      9642
+    ],
+    "814f3328": [
+      2535
+    ],
+    "822bd8ab": [
+      6504
+    ],
+    "8711cf0c": [
+      7368
+    ],
+    "8717b14a": [
+      948
+    ],
+    "925b3f96": [
+      9003
+    ],
+    "935f2afb": [
+      53
+    ],
+    "9e4087bc": [
+      3608
+    ],
+    "a556c903": [
+      5323
+    ],
+    "a6aa9e1f": [
+      532,
+      2529,
+      3946,
+      3089
+    ],
+    "c4f5d8e4": [
+      532,
+      4195
+    ],
+    "c66ab0a0": [
+      9294
+    ],
+    "ccc49370": [
+      532,
+      2529,
+      3946,
+      6103
+    ],
+    "d4938f1b": [
+      259
+    ],
+    "d54367e4": [
+      5639
+    ],
+    "d7c6f206": [
+      8124
+    ],
+    "d9f32620": [
+      1914
+    ],
+    "dacd2265": [
+      7497
+    ],
+    "dfd11afb": [
+      303
+    ],
+    "dff1c289": [
+      3792
+    ],
+    "e273c56f": [
+      2362
+    ],
+    "e44a2883": [
+      6755
+    ],
+    "f4f34a3a": [
+      8636
+    ],
+    "f531a8e0": [
+      4002
+    ],
+    "f55d3e7a": [
+      4193
+    ],
+    "styles": [
+      179,
+      1303,
+      2529,
+      3085,
+      3089,
+      3946,
+      4013,
+      4195,
+      6103,
+      7918,
+      8610,
+      9514,
+      9817,
+      532
+    ]
+  },
+  "assets": {
+    "53": {
+      "js": [
+        {
+          "file": "assets/js/935f2afb.4a64c44e.js",
+          "hash": "780860b82301fbe0",
+          "publicPath": "/autism-doc/assets/js/935f2afb.4a64c44e.js"
+        }
+      ]
+    },
+    "174": {
+      "js": [
+        {
+          "file": "assets/js/05457f33.531d3906.js",
+          "hash": "bed2c87d7ec5e8fb",
+          "publicPath": "/autism-doc/assets/js/05457f33.531d3906.js"
+        }
+      ]
+    },
+    "179": {
+      "js": [
+        {
+          "file": "assets/js/main.2abb121b.js",
+          "hash": "24435d8bbe4911ba",
+          "publicPath": "/autism-doc/assets/js/main.2abb121b.js"
+        }
+      ]
+    },
+    "259": {
+      "js": [
+        {
+          "file": "assets/js/d4938f1b.ce3b9b88.js",
+          "hash": "68d0e55f1ae5bc23",
+          "publicPath": "/autism-doc/assets/js/d4938f1b.ce3b9b88.js"
+        }
+      ]
+    },
+    "303": {
+      "js": [
+        {
+          "file": "assets/js/dfd11afb.71704456.js",
+          "hash": "618e2a5b81c5370c",
+          "publicPath": "/autism-doc/assets/js/dfd11afb.71704456.js"
+        }
+      ]
+    },
+    "532": {
+      "css": [
+        {
+          "file": "assets/css/styles.5c8c3f00.css",
+          "hash": "ed72a6d6f6325a60",
+          "publicPath": "/autism-doc/assets/css/styles.5c8c3f00.css"
+        }
+      ]
+    },
+    "777": {
+      "js": [
+        {
+          "file": "assets/js/1bf302b0.fc06ac70.js",
+          "hash": "72d34e4dd0d82e5e",
+          "publicPath": "/autism-doc/assets/js/1bf302b0.fc06ac70.js"
+        }
+      ]
+    },
+    "948": {
+      "js": [
+        {
+          "file": "assets/js/8717b14a.7048a7a7.js",
+          "hash": "6cadb15526ef206c",
+          "publicPath": "/autism-doc/assets/js/8717b14a.7048a7a7.js"
+        }
+      ]
+    },
+    "1107": {
+      "js": [
+        {
+          "file": "assets/js/90177056.63bdc648.js",
+          "hash": "6c0cb6f009aa5ba6",
+          "publicPath": "/autism-doc/assets/js/90177056.63bdc648.js"
+        }
+      ]
+    },
+    "1303": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.a2077ebb.js",
+          "hash": "0575e2e1430aac7b",
+          "publicPath": "/autism-doc/assets/js/runtime~main.a2077ebb.js"
+        }
+      ]
+    },
+    "1914": {
+      "js": [
+        {
+          "file": "assets/js/d9f32620.3fd0d48e.js",
+          "hash": "d004f62db7b25d9c",
+          "publicPath": "/autism-doc/assets/js/d9f32620.3fd0d48e.js"
+        }
+      ]
+    },
+    "2267": {
+      "js": [
+        {
+          "file": "assets/js/59362658.b2b93997.js",
+          "hash": "4c7ad7b3a1a21814",
+          "publicPath": "/autism-doc/assets/js/59362658.b2b93997.js"
+        }
+      ]
+    },
+    "2362": {
+      "js": [
+        {
+          "file": "assets/js/e273c56f.422e4483.js",
+          "hash": "5df04070fc62c697",
+          "publicPath": "/autism-doc/assets/js/e273c56f.422e4483.js"
+        }
+      ]
+    },
+    "2529": {
+      "js": [
+        {
+          "file": "assets/js/2529.c4ef8fae.js",
+          "hash": "6be0204c15694ab6",
+          "publicPath": "/autism-doc/assets/js/2529.c4ef8fae.js"
+        }
+      ]
+    },
+    "2535": {
+      "js": [
+        {
+          "file": "assets/js/814f3328.70d35170.js",
+          "hash": "b95455ba3d20ccd9",
+          "publicPath": "/autism-doc/assets/js/814f3328.70d35170.js"
+        }
+      ]
+    },
+    "2859": {
+      "js": [
+        {
+          "file": "assets/js/18c41134.95009aec.js",
+          "hash": "7a00eab7bcb773a5",
+          "publicPath": "/autism-doc/assets/js/18c41134.95009aec.js"
+        }
+      ]
+    },
+    "3085": {
+      "js": [
+        {
+          "file": "assets/js/1f391b9e.591457e5.js",
+          "hash": "42089e77598e0603",
+          "publicPath": "/autism-doc/assets/js/1f391b9e.591457e5.js"
+        }
+      ]
+    },
+    "3089": {
+      "js": [
+        {
+          "file": "assets/js/a6aa9e1f.bb965d3c.js",
+          "hash": "0a4b2a724e731710",
+          "publicPath": "/autism-doc/assets/js/a6aa9e1f.bb965d3c.js"
+        }
+      ]
+    },
+    "3514": {
+      "js": [
+        {
+          "file": "assets/js/73664a40.053e95a6.js",
+          "hash": "41168793657a002b",
+          "publicPath": "/autism-doc/assets/js/73664a40.053e95a6.js"
+        }
+      ]
+    },
+    "3608": {
+      "js": [
+        {
+          "file": "assets/js/9e4087bc.e4a4cafd.js",
+          "hash": "ea04e91ecb2cdc70",
+          "publicPath": "/autism-doc/assets/js/9e4087bc.e4a4cafd.js"
+        }
+      ]
+    },
+    "3792": {
+      "js": [
+        {
+          "file": "assets/js/dff1c289.5386c4c4.js",
+          "hash": "32cd228446229e01",
+          "publicPath": "/autism-doc/assets/js/dff1c289.5386c4c4.js"
+        }
+      ]
+    },
+    "3946": {
+      "js": [
+        {
+          "file": "assets/js/3946.31419200.js",
+          "hash": "3ea59db362c39997",
+          "publicPath": "/autism-doc/assets/js/3946.31419200.js"
+        }
+      ]
+    },
+    "4002": {
+      "js": [
+        {
+          "file": "assets/js/f531a8e0.5d173dc9.js",
+          "hash": "2143c29271a223ea",
+          "publicPath": "/autism-doc/assets/js/f531a8e0.5d173dc9.js"
+        }
+      ]
+    },
+    "4013": {
+      "js": [
+        {
+          "file": "assets/js/01a85c17.a2cd1589.js",
+          "hash": "8c184b92796ab8f1",
+          "publicPath": "/autism-doc/assets/js/01a85c17.a2cd1589.js"
+        }
+      ]
+    },
+    "4193": {
+      "js": [
+        {
+          "file": "assets/js/f55d3e7a.368259f7.js",
+          "hash": "c17e9422f3a5d430",
+          "publicPath": "/autism-doc/assets/js/f55d3e7a.368259f7.js"
+        }
+      ]
+    },
+    "4195": {
+      "js": [
+        {
+          "file": "assets/js/c4f5d8e4.9f936863.js",
+          "hash": "bc130c72814735b7",
+          "publicPath": "/autism-doc/assets/js/c4f5d8e4.9f936863.js"
+        }
+      ]
+    },
+    "4607": {
+      "js": [
+        {
+          "file": "assets/js/533a09ca.d0a1bf6c.js",
+          "hash": "9d60f80b2810c6ee",
+          "publicPath": "/autism-doc/assets/js/533a09ca.d0a1bf6c.js"
+        }
+      ]
+    },
+    "4694": {
+      "js": [
+        {
+          "file": "assets/js/646ad302.31ec226d.js",
+          "hash": "0449d8a76750c54c",
+          "publicPath": "/autism-doc/assets/js/646ad302.31ec226d.js"
+        }
+      ]
+    },
+    "4972": {
+      "js": [
+        {
+          "file": "assets/js/4972.ff8144fb.js",
+          "hash": "2f79347367a6f087",
+          "publicPath": "/autism-doc/assets/js/4972.ff8144fb.js"
+        },
+        {
+          "file": "assets/js/1be78505.965c78c5.js",
+          "hash": "d110103c3568e122",
+          "publicPath": "/autism-doc/assets/js/1be78505.965c78c5.js"
+        }
+      ]
+    },
+    "5323": {
+      "js": [
+        {
+          "file": "assets/js/a556c903.5686989a.js",
+          "hash": "c0ebceca8e99a581",
+          "publicPath": "/autism-doc/assets/js/a556c903.5686989a.js"
+        }
+      ]
+    },
+    "5589": {
+      "js": [
+        {
+          "file": "assets/js/5c868d36.35efa43c.js",
+          "hash": "37a3770977b542cd",
+          "publicPath": "/autism-doc/assets/js/5c868d36.35efa43c.js"
+        }
+      ]
+    },
+    "5639": {
+      "js": [
+        {
+          "file": "assets/js/d54367e4.3f2306d5.js",
+          "hash": "b2e00045b048f66f",
+          "publicPath": "/autism-doc/assets/js/d54367e4.3f2306d5.js"
+        }
+      ]
+    },
+    "6103": {
+      "js": [
+        {
+          "file": "assets/js/ccc49370.a0e34aee.js",
+          "hash": "c165be7ec88e7dad",
+          "publicPath": "/autism-doc/assets/js/ccc49370.a0e34aee.js"
+        }
+      ]
+    },
+    "6504": {
+      "js": [
+        {
+          "file": "assets/js/822bd8ab.104fc92d.js",
+          "hash": "9a3f23d77ccc36e7",
+          "publicPath": "/autism-doc/assets/js/822bd8ab.104fc92d.js"
+        }
+      ]
+    },
+    "6755": {
+      "js": [
+        {
+          "file": "assets/js/e44a2883.bef38618.js",
+          "hash": "08697548e2c112fc",
+          "publicPath": "/autism-doc/assets/js/e44a2883.bef38618.js"
+        }
+      ]
+    },
+    "7154": {
+      "js": [
+        {
+          "file": "assets/js/84195450.8f6a22ab.js",
+          "hash": "5e944614b31cb7fc",
+          "publicPath": "/autism-doc/assets/js/84195450.8f6a22ab.js"
+        }
+      ]
+    },
+    "7368": {
+      "js": [
+        {
+          "file": "assets/js/8711cf0c.d424bf60.js",
+          "hash": "db020d08aac00353",
+          "publicPath": "/autism-doc/assets/js/8711cf0c.d424bf60.js"
+        }
+      ]
+    },
+    "7414": {
+      "js": [
+        {
+          "file": "assets/js/393be207.a7949529.js",
+          "hash": "e414ac896c45a63d",
+          "publicPath": "/autism-doc/assets/js/393be207.a7949529.js"
+        }
+      ]
+    },
+    "7497": {
+      "js": [
+        {
+          "file": "assets/js/dacd2265.556c121f.js",
+          "hash": "26751f2be10224ec",
+          "publicPath": "/autism-doc/assets/js/dacd2265.556c121f.js"
+        }
+      ]
+    },
+    "7918": {
+      "js": [
+        {
+          "file": "assets/js/17896441.2518702b.js",
+          "hash": "fe2ee31a7a869137",
+          "publicPath": "/autism-doc/assets/js/17896441.2518702b.js"
+        }
+      ]
+    },
+    "8124": {
+      "js": [
+        {
+          "file": "assets/js/d7c6f206.e2237708.js",
+          "hash": "2065c4f75a637041",
+          "publicPath": "/autism-doc/assets/js/d7c6f206.e2237708.js"
+        }
+      ]
+    },
+    "8610": {
+      "js": [
+        {
+          "file": "assets/js/6875c492.2d836ffe.js",
+          "hash": "00e72545313af327",
+          "publicPath": "/autism-doc/assets/js/6875c492.2d836ffe.js"
+        }
+      ]
+    },
+    "8636": {
+      "js": [
+        {
+          "file": "assets/js/f4f34a3a.758521ee.js",
+          "hash": "da4f943f6cb73c19",
+          "publicPath": "/autism-doc/assets/js/f4f34a3a.758521ee.js"
+        }
+      ]
+    },
+    "8818": {
+      "js": [
+        {
+          "file": "assets/js/1e4232ab.6808a6ed.js",
+          "hash": "a6b841620cb39183",
+          "publicPath": "/autism-doc/assets/js/1e4232ab.6808a6ed.js"
+        }
+      ]
+    },
+    "9003": {
+      "js": [
+        {
+          "file": "assets/js/925b3f96.a2ab86c9.js",
+          "hash": "c3f3c863c10787e9",
+          "publicPath": "/autism-doc/assets/js/925b3f96.a2ab86c9.js"
+        }
+      ]
+    },
+    "9294": {
+      "js": [
+        {
+          "file": "assets/js/c66ab0a0.1217eee4.js",
+          "hash": "25b0833a3f827747",
+          "publicPath": "/autism-doc/assets/js/c66ab0a0.1217eee4.js"
+        }
+      ]
+    },
+    "9305": {
+      "js": [
+        {
+          "file": "assets/js/4009fb04.4c0c59a0.js",
+          "hash": "e5b51cde7c1ba54f",
+          "publicPath": "/autism-doc/assets/js/4009fb04.4c0c59a0.js"
+        }
+      ]
+    },
+    "9642": {
+      "js": [
+        {
+          "file": "assets/js/7661071f.7622374c.js",
+          "hash": "bb3b9179f3cfcbbc",
+          "publicPath": "/autism-doc/assets/js/7661071f.7622374c.js"
+        }
+      ]
+    },
+    "9671": {
+      "js": [
+        {
+          "file": "assets/js/0e384e19.04286759.js",
+          "hash": "0b3a44f0b8efc32f",
+          "publicPath": "/autism-doc/assets/js/0e384e19.04286759.js"
+        }
+      ]
+    },
+    "9791": {
+      "js": [
+        {
+          "file": "assets/js/3e827d57.b225bc4c.js",
+          "hash": "cdf1e94b136aa9f6",
+          "publicPath": "/autism-doc/assets/js/3e827d57.b225bc4c.js"
+        }
+      ]
+    },
+    "9817": {
+      "js": [
+        {
+          "file": "assets/js/14eb3368.7a563599.js",
+          "hash": "a5a8ecdc0b314815",
+          "publicPath": "/autism-doc/assets/js/14eb3368.7a563599.js"
+        }
+      ]
+    }
+  }
+}

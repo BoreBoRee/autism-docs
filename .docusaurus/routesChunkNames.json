@@ -1,0 +1,204 @@
+{
+  "/autism-doc/blog-f9b": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "d7c6f206"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "metadata": "dacd2265"
+  },
+  "/autism-doc/blog/archive-aa6": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "d7c6f206"
+    },
+    "archive": "f531a8e0"
+  },
+  "/autism-doc/blog/first-blog-post-8ac": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "d7c6f206"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/autism-doc/blog/long-blog-post-a94": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "d7c6f206"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/autism-doc/blog/mdx-blog-post-20f": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "d7c6f206"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/autism-doc/blog/tags-481": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "d7c6f206"
+    },
+    "sidebar": "814f3328",
+    "tags": "4009fb04"
+  },
+  "/autism-doc/blog/tags/docusaurus-3bb": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "d7c6f206"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "3e827d57",
+    "listMetadata": "646ad302"
+  },
+  "/autism-doc/blog/tags/facebook-35a": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "d7c6f206"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "tag": "84195450",
+    "listMetadata": "d54367e4"
+  },
+  "/autism-doc/blog/tags/hello-656": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "d7c6f206"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "tag": "c66ab0a0",
+    "listMetadata": "d4938f1b"
+  },
+  "/autism-doc/blog/tags/hola-783": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "d7c6f206"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "tag": "05457f33",
+    "listMetadata": "1bf302b0"
+  },
+  "/autism-doc/blog/welcome-176": {
+    "__comp": "ccc49370",
+    "__context": {
+      "plugin": "d7c6f206"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/autism-doc/markdown-page-476": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "8711cf0c"
+    },
+    "content": "393be207"
+  },
+  "/autism-doc/docs-5dc": {
+    "__comp": "1be78505",
+    "__context": {
+      "plugin": "dfd11afb"
+    },
+    "versionMetadata": "935f2afb"
+  },
+  "/autism-doc/docs/category/tutorial---basics-8cb": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "a556c903"
+  },
+  "/autism-doc/docs/category/tutorial---extras-b2a": {
+    "__comp": "14eb3368",
+    "categoryGeneratedIndex": "90177056"
+  },
+  "/autism-doc/docs/intro-6fd": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/autism-doc/docs/tutorial-basics/congratulations-79e": {
+    "__comp": "17896441",
+    "content": "822bd8ab"
+  },
+  "/autism-doc/docs/tutorial-basics/create-a-blog-post-762": {
+    "__comp": "17896441",
+    "content": "533a09ca"
+  },
+  "/autism-doc/docs/tutorial-basics/create-a-document-585": {
+    "__comp": "17896441",
+    "content": "1e4232ab"
+  },
+  "/autism-doc/docs/tutorial-basics/create-a-page-d9b": {
+    "__comp": "17896441",
+    "content": "5c868d36"
+  },
+  "/autism-doc/docs/tutorial-basics/deploy-your-site-338": {
+    "__comp": "17896441",
+    "content": "f55d3e7a"
+  },
+  "/autism-doc/docs/tutorial-basics/markdown-features-fc5": {
+    "__comp": "17896441",
+    "content": "18c41134"
+  },
+  "/autism-doc/docs/tutorial-extras/manage-docs-versions-c81": {
+    "__comp": "17896441",
+    "content": "dff1c289"
+  },
+  "/autism-doc/docs/tutorial-extras/translate-your-site-5a9": {
+    "__comp": "17896441",
+    "content": "e44a2883"
+  },
+  "/autism-doc/-428": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "8711cf0c"
+    },
+    "config": "5e9f5e1a"
+  }
+}
