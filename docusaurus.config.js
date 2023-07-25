@@ -18,8 +18,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'thaiautism', // Usually your GitHub org/user name.
-  projectName: 'autism-doc', // Usually your repo name.
+  organizationName: 'BoreBoRee', // Usually your GitHub org/user name.
+  projectName: 'autism-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
