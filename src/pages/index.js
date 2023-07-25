@@ -14,12 +14,30 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">{siteConfig.title}</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Docusaurus Tutorial - 5min ⏱️
-          </Link>
+        
+        {/* Use the "row-center" class here */}
+        <div className={clsx('row', styles.rowCenter)}>
+          <div className={styles.buttons}> {/* Remove styles.buttons class */}
+            <Link
+              className="button button--secondary button--lg"
+              to="/docs/client/introClient">
+              Autism Client
+            </Link>
+          </div>
+          <div className={styles.buttons}> {/* Remove styles.buttons class */}
+            <Link
+              className="button button--secondary button--lg"
+              to="/docs/intro">
+              Autism Admin
+            </Link>
+          </div>
+          <div className={styles.buttons}> {/* Remove styles.buttons class */}
+            <Link
+              className="button button--secondary button--lg"
+              to="/docs/intro">
+              Docusaurus Tutorial - 5min ⏱️
+            </Link>
+          </div>
         </div>
       </div>
     </header>

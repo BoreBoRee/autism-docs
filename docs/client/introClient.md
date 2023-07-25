@@ -2,16 +2,17 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro test
+# ฝั่งผู้ใช้งานทั่วไป
 
-Let's discover **Docusaurus in less than 5 minutes**.
+แอพลิเคชันเพื่อคัดกรองบุตรที่มีความเสี่ยงเป็นออทิซึม
 
-## Getting Started
+## เกี่ยวกับแอพลิเคชันออทิซึม
 
-Get started by **creating a new site**.
+Nowadays, several children are diagnosed with Autism. This project will develop two applications which are a mobile application and a web application. The mobile application will help parents interview their child with a risk of being autistic or not. This application will allow parents to promptly investigate their child's chances of being autistic to prepare for treatment. This application contains a 20-question questionnaire for parents and children to complete, and there will be feedback about the opportunity and statistical results gathered from many children and the parent. Also send the information of the result from each child to experts to analyze and send advice back to the parent.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+ทดสอบรูปภาพ
 
+![อันนี้คืออะไร](./img/testimg.png)
 ### What you'll need
 
 - [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
