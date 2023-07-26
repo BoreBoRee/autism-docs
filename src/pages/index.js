@@ -31,13 +31,7 @@ function HomepageHeader() {
               Autism Admin
             </Link>
           </div>
-          <div className={styles.buttons}> {/* Remove styles.buttons class */}
-            <Link
-              className="button button--secondary button--lg"
-              to="/docs/intro">
-              Docusaurus Tutorial - 5min ⏱️
-            </Link>
-          </div>
+          
         </div>
       </div>
     </header>

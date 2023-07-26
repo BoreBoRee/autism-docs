@@ -73,7 +73,13 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'หน้าแรก',
+            label: 'ฝั่งผู้ใช้งาน',
+          },
+          {
+            type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
+            position: 'left',
+            label: 'ฝั่งแอดมิน',
           },
           // {to: '/blog', label: 'Blog', position: 'left'},
           // {
@@ -90,8 +96,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'ฝั่งผู้ใช้งาน',
+                to: '/docs/client/introClient',
+              },
+              {
+                label: 'ฝั่งแอดมิน',
+                to: '/docs/admin/introAdmin',
               },
             ],
           },
