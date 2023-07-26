@@ -12,8 +12,8 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <h1 className="hero__title">คัดกรอง ออทิซึม</h1>
+        <p className="hero__subtitle">คู่มือการใช้งานแอพลิเคชันคัดกรองออทิซึม</p>
         
         {/* Use the "row-center" class here */}
         <div className={clsx('row', styles.rowCenter)}>
@@ -52,7 +52,7 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
-        <HomepageFeatures />
+        
       </main>
     </Layout>
   );
