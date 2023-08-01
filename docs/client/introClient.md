@@ -8,41 +8,19 @@ sidebar_position: 1
 
 ## เกี่ยวกับแอพลิเคชันออทิซึม
 
-Nowadays, several children are diagnosed with Autism. This project will develop two applications which are a mobile application and a web application. The mobile application will help parents interview their child with a risk of being autistic or not. This application will allow parents to promptly investigate their child's chances of being autistic to prepare for treatment. This application contains a 20-question questionnaire for parents and children to complete, and there will be feedback about the opportunity and statistical results gathered from many children and the parent. Also send the information of the result from each child to experts to analyze and send advice back to the parent.
+ออทิซึมเป็นโรคที่พบได้ง่าย และพบได้มากในเด็ก ส่วนมากผู้ปกครองมักจะไม่รู้ตัวว่าบุตรของตนเองนั้นมีความเสี่ยงเป็นโรคออทิซึมหรือไม่ และส่วนมากจะพบหลังจากผ่านไประยะเวลาหนึ่งแล้วทำให้ยากต่อการรักษา. การรักษาโรคออทิซึมนั้น จะทำได้เร็วและมีประสิทธิภาพนั้น จำเป็นต้องนำไปรักษากับแพทย์ผู้เชียวชาญอย่างเร็วที่สุด ในการที่จะตรวจหา หากไม่ใช่แพทย์ผู้เชี่ยวชาญก็จะตรวจพบได้ยาก ฉนั้น เราจึงตัดสินใจที่สร้างแอพเพื่อที่จะคัดกรองว่าบุตรของตนเองมีความเสี่ยงที่จะเป็นโรคออทิซึม
 
-ทดสอบรูปภาพ
+## บทบาทต่างๆ
+ผู้ใช้งานแบ่งเป็น 4 ประเภทโดยแต่ละประเภทสามาเข้าถึงระบบต่างๆได้ต่างกัน ดังนี้
 
-![อันนี้คืออะไร](./img/testimg.png)
-### What you'll need
+### ผู้ใช้งานทั่วไป
+ผู้ใช้งานทั่วไปที่สามารถเข้าถึงแอพพลิเคชั่นคัดกรองออทิซึม สามารถสร้างโปรไฟล์ของบุตรแต่ละคนได้ และสามารถรับคำวินิจฉัยจากแพทย์ผู้เชี่ยวชาญได้
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### ผู้ใช้งานชั่วคราว
+ผู้ใช้งานขาจรที่สามารถเข้าถึงแอพพลิเคชั่นคัดกรองออทิซึมได้ และสามารถทราบผลการทำแบบสอบถามคัดกรองได้ แต่หากผู้ใช้งานออกจากระบบแล้ว จะไม่สามารถเข้าถึงข้อมูลที่ทำแบบสอบถามไปได้
 
-## Generate a new site
+### บุคลากรทางการแพทย์
+บุคลากรทางการแพทย์ สามารถเข้าถึงได้ทั้งสองแอพพลิเคชั่นได้แก่ แอพพลิเคชั่นคัดกรองออทิซึม และแอพพลิเคชันระบบจัดการ อีกทั้งยังสามารถประเมินผลที่ผู้ใช้งานได้ทำแบบคัดกรองและต้องการทราบผลวินิจฉัยได้
 
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+### ผู้ดูแลระบบ
+สามารถเข้าถึงระบบต่างๆได้ทั้งหมด ทั้งแอพพลิเคชันคัดกรองออทิซึม และแอพพลิเคชันระบบจัดการได้ และสามารถแก้ไขการเข้าถึงของผู้ใช้เพื่อให้สิทธิการเข้าใช้ต่างๆได้ เช่น ให้สิทธิเป็นบุคลากรทางการแพทย์ ให้สิทธิเป็นผู้ดูแลระบบ หรือปลดสิทธิต่างๆได้ รวมทั้งสามารถระงับการเข้าถึงของผู้ใช้งานที่จะเข้าใช้งานแอพพลิเคชันระบบจัดการได้
