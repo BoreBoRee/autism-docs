@@ -106,9 +106,8 @@ const config = {
             ],
           },
           
-        
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Thai autism KKU`,
+        copyright: `Copyright © ${new Date().getFullYear()} Thaiautism KKU`,
       },
       prism: {
         theme: lightCodeTheme,
