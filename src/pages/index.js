@@ -12,7 +12,7 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">คัดกรอง ออทิซึม</h1>
+        <h1 className="hero__title">คู่มือการใช้งานคัดกรองออทิซึม</h1>
         <p className="hero__subtitle">คู่มือการใช้งานแอพลิเคชันคัดกรองออทิซึม</p>
         
         {/* Use the "row-center" class here */}
@@ -42,7 +42,7 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
       <HomepageHeader />
       <main>
