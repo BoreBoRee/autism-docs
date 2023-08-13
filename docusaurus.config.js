@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'คัดกรองออทิซึม',
-  tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  // tagline: 'Dinosaurs are cool',
+  favicon: 'img/คัดกรอง.png',
 
   // Set the production url of your site here
   url: 'https://github.com',
@@ -61,7 +61,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/คัดกรอง.jpg',
+      image: 'img/คัดกรอง.png',
       navbar: {
         title: 'คัดกรองออทิซึม',
         logo: {
